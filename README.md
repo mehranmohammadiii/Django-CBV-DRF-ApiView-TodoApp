@@ -32,11 +32,23 @@ This is a brief demo of the functionality of the project
 <img src="https://github.com/mehranmohammadiii/Django-CBV-DRF-ApiView-TodoApp/blob/main/demo/todo-app.gif" alt="database schema" width="720"/>
 </p>
 
+### API Documentation (Swagger UI)
+This project includes interactive API documentation generated automatically from the source code using `drf-yasg`. You can view all available endpoints, see the required parameters, and test the API directly in your browser. This makes development and testing much faster.
+
+Once the server is running, you can access the documentation at:
+- **Swagger UI:** `http://127.0.0.1:8000/swagger/`
+- **ReDoc:** `http://127.0.0.1:8000/redoc/`
+
+<p align="center">
+  <img src="PATH/TO/YOUR/SWAGGER_UI_SCREENSHOT.png" alt="Swagger UI Demo" width="720"/>
+</p>
+
 ### Features
 - Django LTS
 - Class Based View
 - Django RestFramework
-- ApiView 
+- ApiView
+- Interactive API Documentation (Swagger & ReDoc)
 - User authentication
 - Black
 - Flake8
