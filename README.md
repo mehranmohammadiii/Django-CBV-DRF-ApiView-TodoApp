@@ -40,7 +40,7 @@ Once the server is running, you can access the documentation at:
 - **ReDoc:** `http://127.0.0.1:8000/redoc/`
 
 <p align="center">
-  <img src="PATH/TO/YOUR/SWAGGER_UI_SCREENSHOT.png" alt="Swagger UI Demo" width="720"/>
+  <img src="https://github.com/mehranmohammadiii/Django-CBV-DRF-ApiView-TodoApp/blob/main/demo/swagger.png" alt="Swagger UI Demo" width="720"/>
 </p>
 
 ### Features
